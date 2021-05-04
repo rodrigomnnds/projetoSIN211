@@ -1,0 +1,7 @@
+como este projeto está organizado (#include):
+main.c
+	funcoes.c
+		config.c
+		Estrutura_de_dados
+			Estrutura_Carta
+	
